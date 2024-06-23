@@ -1,4 +1,5 @@
-[
+{
+    "videos": [
     {
         "id": 1,
         "titulo": "O labirinto do Logcat",
@@ -22,5 +23,30 @@
         "titulo": "Dart, o Caçador de Andróides",
         "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
         "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+    },
+    {
+        "id": 5,
+        "titulo": "O labirinto do Logcat",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
+        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+    },
+    {
+        "id": 6,
+        "titulo": "Um componente no espaço",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
+        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+    },
+    {
+        "id": 7,
+        "titulo": "O poderoso JavaScript",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
+        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+    },
+    {
+        "id": 8,
+        "titulo": "Dart, o Caçador de Andróides",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
+        "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
     }
 ]
+}

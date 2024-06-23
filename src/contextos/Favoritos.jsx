@@ -18,7 +18,7 @@ export function useFavoritoContext() {
 
   function adicionarFavorito(novoFavorito) {
     const favoritoRepetido = favorito.some((item) => item.id === novoFavorito);
-    let novaLista = { ...favorito };
+    let novaLista = [...favorito];
     if (!favoritoRepetido) {
       novaLista.push(novoFavorito);
       return setFavorito(novaLista);
